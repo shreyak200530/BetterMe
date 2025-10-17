@@ -8,7 +8,7 @@ A gamified habit tracker that transforms your daily routines into an epic advent
 - **Character Progression**: Earn XP and level up your pixel art character
 - **Visual Feedback**: Floating XP animations and smooth level-up celebrations
 - **Character Customization**: Unlock and purchase cosmetic items from the shop
-- **Dynamic Animations**: Idle, walking, and celebration animations for your character
+- **Dynamic Animations**: Idle, and celebration animations for your character
 
 ### Habit Management
 - **Flexible Tracking**: Create daily, weekly, or custom habits
@@ -143,7 +143,7 @@ Managed by Supabase Auth, contains user authentication data.
 - Example: Level 1→2 requires 100 XP, Level 2→3 requires 200 XP
 
 ### Coin System
-- Earn 10 coins per level gained
+- Earn 5 coins per level gained
 - Used to purchase cosmetic items in the shop
 
 ### Level Progression
@@ -189,4 +189,5 @@ Contributions are welcome! Please ensure:
 ## License
 
 This project is open source and available for personal and commercial use.
+
 
