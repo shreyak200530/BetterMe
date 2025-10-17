@@ -1,4 +1,4 @@
-# Habit Quest
+# BetterMe
 
 A gamified habit tracker that transforms your daily routines into an epic adventure. Level up your character, earn experience points, and unlock cosmetic items as you build better habits.
 
@@ -189,3 +189,4 @@ Contributions are welcome! Please ensure:
 ## License
 
 This project is open source and available for personal and commercial use.
+
